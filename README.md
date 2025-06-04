@@ -1,8 +1,8 @@
 # MeiqiaSDK-Push-Signature-Example
-Mixdesk SDK 3.0 推送的数据结构签名算法，多语言示例。
+Mixdesk SDK 推送的数据结构签名算法，多语言示例。
 
 
-该项目是 `Mixdesk SDK 3.0` 推送的数据结构签名的算法。
+该项目是 `Mixdesk SDK` 推送的数据结构签名的算法。
 
 开发者收到Mixdesk的推送数据后，开发者可以选择进行 `签名验证`。
 
